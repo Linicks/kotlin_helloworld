@@ -1,5 +1,5 @@
 /**
- * Created by npavlica on 6/14/16.
+ * This is the most basic example of Hello World in Kotlin.
  */
 
 
